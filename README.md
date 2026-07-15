@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raymond130
-- 👀 I’m interested in Backend development & scientific computing. Trying to get my sea legs developing simple web apps first.
-- 🌱 I’m currently learning ... fullstackopen.com
-- 💞️ I’m looking to collaborate on ... Scientific projects - working with time series data, etc.
+- 👀 I'm interested in building apps across the stack that make life easier and better for other people
+- 🌱 I’m currently learning ... more full stack stuff, and Godot so I can finish up this game
+- 💞️ I’m looking to collaborate on ... games, apps, AI stuff
 - 📫 How to reach me ... shoot me an email at brraymond2@gmail.com
 
 <!---
